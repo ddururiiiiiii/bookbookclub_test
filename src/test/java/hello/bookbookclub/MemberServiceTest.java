@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 
 public class MemberServiceTest {
 
+
     MemberService memberService = new MemberServiceImpl();
     private String id;
     private String nickName;
